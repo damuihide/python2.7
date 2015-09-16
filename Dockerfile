@@ -10,7 +10,6 @@ RUN pip install redis
 RUN pip install thriftpy
 RUN pip install toro
 RUN pip install requests
-RUN pip install momoko
 RUN pip install beanstalkt
 RUN pip install pycoin
 RUN pip install Pillow
